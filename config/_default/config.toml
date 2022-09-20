@@ -1,6 +1,5 @@
 baseURL = "https://hellfireclub.ggdm.wiki/"
 languageCode = "en-us"
-googleAnalytics = "G-85VLMKLZDV"
 relativeURLs = false
 disablePathToLower = true
 ignoreFiles = [
