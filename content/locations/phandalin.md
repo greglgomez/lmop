@@ -3,7 +3,7 @@ title: "Phandalin"
 tags:
  - location
 ---
-![Phandalin Map](map-2.1-Phandalin-player.jpg)
+![Phandalin Map](locations/images/map-2.1-Phandalin-player.jpg)
 
 # Phandalin
 Located south-southeast of Neverwinter in the foothills of the Sword Mountains just off of the Triboar Trail. Frontier town built on the ruins of a much older settlement.  In the last handful of years, settlers from Neverwinter and Waterdeep have begun to reclaim the ruins of old Phandalin. It is now home to farmers, woodcutters, fur traders, and prospectors drawn by stories of gold and platinum in the foothills of the Sword Mountains.
