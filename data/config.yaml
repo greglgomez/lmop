@@ -7,10 +7,10 @@ enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
-enableFooter: true
+enableFooter: false
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
+enableGitHubEdit: false
 GitHubLink: https://github.com/greglgomez/lmop
 enableSemanticSearch: false
 operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
@@ -18,8 +18,8 @@ description:
   Hellfire Clubs campaign wiki
 page_title:
   "Hellfire Club Campaign Wiki"
-links:
-  - link_name: Instagram
-    link: https://www.instagram.com/greglgomez/
-  - link_name: Facebook
-    link: https://www.facebook.com/HelloGGDM
+# links:
+#   - link_name: Instagram
+#     link: https://www.instagram.com/greglgomez/
+#   - link_name: Facebook
+#     link: https://www.facebook.com/HelloGGDM
