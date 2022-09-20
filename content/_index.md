@@ -8,7 +8,7 @@ Here you can find information about:
 
 - Sessions
 - Player Characters
-	- [Campaign Backgrounds](players/backgrounds)
+	- [Character Backgrounds](players/backgrounds)
 - Non-Player Chararcters
 - Organisations
 - Locations
