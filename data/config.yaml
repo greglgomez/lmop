@@ -13,9 +13,9 @@ enableRecentNotes: false
 enableGitHubEdit: false
 GitHubLink: https://github.com/greglgomez/lmop
 enableSemanticSearch: false
-operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
+operandApiKey: OPERAND_KEY
 description:
-  Hellfire Clubs campaign wiki
+  Hellfire Clubs Campaign Wiki
 page_title:
   "Hellfire Club Campaign Wiki"
 # links:
