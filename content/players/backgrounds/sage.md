@@ -1,7 +1,7 @@
 ---
 -title: "sage"
 -tags:
--- background
+--background
 ---
 # Background: Sage
 You have spent your life dedicated to the research of obscure arcana lore and history. You scoured manuscripts, studied scrolls and listened to the greatest experts on arcana. Your efforts have made you a master in your field.

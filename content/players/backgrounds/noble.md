@@ -1,7 +1,7 @@
 ---
 -title: "noble"
 -tags:
--- background
+--background
 ---
 # Background: Noble
 Your family is no stranger to wealth, power and privilege. In the glory days of Neverwinter, your parents were the count and countess of Corlinn Hill, a large estate located in the hills northeast of the city. But Mount Hotenow erupted thirty years ago, devastating Neverwinter and erasing Corlinn Hill from the map. Instead of growing up on an estate, you were raised in a small but comfortable town house in Waterdeep. As an adult, you instead to inhertit a meaningless title and little else.

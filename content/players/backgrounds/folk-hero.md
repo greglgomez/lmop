@@ -1,7 +1,7 @@
 ---
 -title: "folk-hero"
 -tags:
--- background
+--background
 ---
 # Background: Folk Hero
 Your parents lived in the prosperous village of Thundertree, east of the city of Neverwinter and at the edge of the Neverwinter Wood. But when nearby Mount Hotenow erupted thirty years ago, your parents fled, carrying you in your infancy. Your family drifted from village to village around the region, finding work as servants or laborers where they could. You’ve spent the last few years in Neverwinter as a porter and laborer at the city’s bustling docks. But it’s clear to you and everyone around you that you are destined for much more. You stood up to an abusive ship captain once and so the dockworkers lookup to you. Someday you’ll come into your own. You’ll be a hero.

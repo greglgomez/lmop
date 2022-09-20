@@ -1,7 +1,7 @@
 ---
 -title: "soldier"
 -tags:
--- background
+--background
 ---
 # Background: Soldier
 Trained as a soldier on the island of Mintarn, you traveled to Neverwinter as part of a mercenary company that serves as both army and city watch. You grew disillusioned with your fellow soldiers, who seem to enjoy their authority at the expense of the people they’re supposed to protect.
