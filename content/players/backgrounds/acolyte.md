@@ -1,7 +1,7 @@
 ---
--title: "acolyte"
--tags:
---background
+title: "acolyte"
+tags:
+ background
 ---
 # Background: Acolyte
 You have spent your life dedicated to Oghma, all seeing god of knowledge, and spent years learning the lore of the multiverse.
